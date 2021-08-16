@@ -1,12 +1,7 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-- 🔭 I’m currently working on: React - React Native -Flutter
-- 🌱 I’m currently learning: React - React Native - Flutter
-- 💬 Ask me about: React Native
-- Play Store :https://play.google.com/store/apps/developer?id=Ekrem+Alp+%C3%96zmen&hl=tr
-
-
+- 🔭 I’m currently working on: ASP.NET MVC - C# - SQL 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ekremalpozmen&color=blue" alt="Ekremalpozmen :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/ekremalpozmen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ekremalpozmen-blue?style=flat&logo=linkedin"></a>
