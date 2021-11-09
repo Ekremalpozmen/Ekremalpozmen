@@ -8,9 +8,14 @@
 <a href="mailto:ekrem3792@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ekrem3792@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
+  
+<a href="#" >
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Ekremalpozmen&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Ekrem's github stats" />
+</a>
 
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Ekremalpozmen&show_icons=true&count_private=true&include_all_commits=true&theme=dark/>
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Ekremalpozmen&count_private=true&layout=compact&theme=dark/>
-</p>
+<a href="#">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Ekremalpozmen&count_private=true&layout=compact&theme=dark" />
+</a>
+
+</div>
+ 
