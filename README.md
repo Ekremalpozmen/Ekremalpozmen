@@ -11,6 +11,6 @@
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ekremalpozmen&show_icons=true&theme=synthwave" alt="Ekremalpozmen :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekremalpozmen&langs_count=10&theme=tokyonight&layout=compact" alt="Ekremalpozmen :: Top Langs" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Ekremalpozmen&show_icons=true&count_private=true&include_all_commits=true&theme=dark/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Ekremalpozmen&count_private=true&layout=compact&theme=dark/>
 </p>
